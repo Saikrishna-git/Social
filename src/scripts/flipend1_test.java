@@ -27,7 +27,7 @@ public class flipend1_test extends generic_pom
 	ip1.sele();
 	Thread.sleep(3000);
 	flipend2 ip2 = new flipend2(driver);
-	ip2.newwind(driver);
+	ip2.newwind(driver) ;
 	
 	Thread.sleep(3000);
 	flipend3 ip3 = new flipend3(driver);

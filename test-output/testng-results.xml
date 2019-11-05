@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40331" started-at="2019-11-05T11:28:31Z" finished-at="2019-11-05T11:29:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40331" started-at="2019-11-05T11:28:31Z" finished-at="2019-11-05T11:29:12Z">
+      <class name="scripts.test_flipend">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:scripts.test_flipend@4439f31e]" name="openappln" is-config="true" duration-ms="19550" started-at="2019-11-05T16:58:31Z" finished-at="2019-11-05T16:58:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.test_flipend@4439f31e]" name="test" duration-ms="20750" started-at="2019-11-05T16:58:51Z" finished-at="2019-11-05T16:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- scripts.test_flipend -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
